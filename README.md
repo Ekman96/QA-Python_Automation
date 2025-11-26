@@ -1,38 +1,42 @@
-# QA-Python Automation
+# QA-Python Automation 🚀
 
-This repository contains basic Python automation scripts to help build foundational QA automation skills. It includes simple examples such as printing test execution messages and will be expanded with automated testing frameworks and real-world scenarios.
+This repository contains Python-based automation scripts created as part of my Quality Assurance learning journey. The goal of this project is to build strong fundamentals in test automation using Python and eventually scale into UI testing, API testing, and CI/CD integration.
 
 ---
 
-## 🔧 Technologies Used
+## 🔍 What’s Inside?
+
+| File | Description |
+|------|-------------|
+| `hello_automation.py` | Prints a basic message confirming Python environment setup and script execution |
+
+---
+
+## 🧰 Tools & Technologies
+
 - Python 3.x
 - Git & GitHub
 - Visual Studio Code
 
 ---
 
-## 🚀 Current Scripts
-| File | Description |
-|------|-------------|
-| `hello_automation.py` | Prints a basic message to verify Python environment and setup |
+## 📌 Roadmap — Upcoming Enhancements
+
+✔ Add Selenium UI automation  
+✔ Integrate with PyTest  
+✔ Build Page Object Model structure  
+✔ Add assertions & reporting  
+✔ API testing using `requests` library  
+✔ CI/CD pipeline setup for automated test execution  
+
+I will continue expanding this repository to showcase strong automation coverage and professional testing workflows.
 
 ---
 
-## 📌 Roadmap
-The goal is to grow this repository into a complete automation portfolio, including:
+## 🧑‍💻 About Me
 
-✔ Selenium UI Automation  
-✔ API Testing  
-✔ PyTest / Unittest Test Framework  
-✔ CI/CD Integration  
-✔ Reporting & Assertions  
-
----
-
-## 👨‍💻 About Me
-Ekmanpreet Singh — QA Engineer with experience in healthcare technology and automation tools. Passionate about building reliable test systems to improve product quality.
+**Ekmanpreet Singh**  
+QA Engineer working in the healthcare industry with experience in testing tools, EMR & EPIC system validation, and quality compliance. Passionate about automation and delivering reliable system performance.
 
 🔗 Connect with me on LinkedIn:  
-https://www.linkedin.com/in/ekmanp-singh
-
----
+https://www.linkedin.com/in/ekmanp-singh  
