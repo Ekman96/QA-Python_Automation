@@ -4,30 +4,36 @@ This repository contains Python-based automation scripts created as part of my Q
 
 ---
 
-## 🔍 What’s Inside?
+## 🔍 Projects & What’s Inside
 
-| File | Description |
-|------|-------------|
-| `hello_automation.py` | Prints a basic message confirming Python environment setup and script execution |
+| Project | File / Folder | Description |
+|---------|---------------|-------------|
+| Hello Automation Test | `Selenium_Web_Automation/test_hello_automation.py` | Basic Python test to verify environment setup. |
+| Google Search Automation | `Selenium_Web_Automation/test_google_homepage.py` | Selenium script to perform a Google search and verify results. |
+| API Testing | `API_Testing/test_api_example.py` | Python script using `requests` to test a GET API endpoint. |
+| Login Form Automation | `Selenium_Web_Automation/test_login_form.py` | Selenium script to automate login on a demo site and verify dashboard. |
+| Form Submission Automation | `Selenium_Web_Automation/test_form_submission.py` | Selenium script to fill and submit a form on a demo website with explicit waits. |
 
 ---
 
 ## 🧰 Tools & Technologies
 
-- Python 3.x
-- Git & GitHub
-- Visual Studio Code
+- Python 3.x  
+- Selenium WebDriver  
+- PyTest & `pytest-html` for reporting  
+- `requests` library for API testing  
+- Git & GitHub  
+- Visual Studio Code / IDLE  
 
 ---
 
 ## 📌 Roadmap — Upcoming Enhancements
 
-✔ Add Selenium UI automation  
-✔ Integrate with PyTest  
-✔ Build Page Object Model structure  
-✔ Add assertions & reporting  
-✔ API testing using `requests` library  
-✔ CI/CD pipeline setup for automated test execution  
+✔ Expand Selenium UI automation tests  
+✔ Implement Page Object Model (POM) structure  
+✔ Add more assertions and reporting  
+✔ API automation with POST, PUT, DELETE methods  
+✔ Integrate CI/CD pipeline for automated test execution  
 
 I will continue expanding this repository to showcase strong automation coverage and professional testing workflows.
 
